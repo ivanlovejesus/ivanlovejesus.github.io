@@ -1,0 +1,13 @@
+{
+    "site_name": "弧光守望者",
+    "copyright": "SYSCDE",
+    "cates": [
+        {"name": "tech", "text":"编程"},
+        {"name": "life", "text":"生活"},
+        {"name": "other", "text":"其它"}
+    ],
+    "articles":[
+        {"title": "在windows平台使用github", "file": "2013-06-07-use-github-on-windows", "cate":"tech"}
+		
+        ]
+}
