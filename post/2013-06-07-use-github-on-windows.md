@@ -66,6 +66,7 @@ git会自动把代码下载下来，放在当前目录下的myfolder目录下
 
 
 参考文章：
+    -  anxingle.github.io
 
 	- http://www.wojilu.com/Forum1/Topic/2266
 	- http://www.worldhello.net/gotgithub/04-work-with-others/010-fork-and-pull.html
